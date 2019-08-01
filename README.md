@@ -1,2 +1,2 @@
 # dark.py
-Test
+Hanya tempat test run Script sebelum Rilis
